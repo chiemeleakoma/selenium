@@ -22,7 +22,6 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <useSystemClassLoader>false</useSystemClassLoader>
-        </configuration>
                 </configuration>
             </plugin>
             <plugin>
